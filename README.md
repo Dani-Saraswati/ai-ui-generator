@@ -2,9 +2,9 @@
 
 A deterministic AI-powered UI generator that converts natural language into working React components using a multi-agent system.
 
-**Live Demo:** [Add your Vercel URL here after deployment]  
-**Demo Video:** [Add your Loom/YouTube link here]  
-**Repository:** https://github.com/YOUR-USERNAME/ai-ui-generator
+**Live Demo:** https://ai-ui-generator-ezxd.vercel.app
+**Demo Video:** https://drive.google.com/file/d/1xJGjkFKEpHXl0Laa2tE0TLN3peKGj2-y/view?usp=sharing
+**Repository:** https://github.com/Dani-Saraswati/ai-ui-generator
 
 ## 🚀 Quick Setup
 
